@@ -1,5 +1,5 @@
 <!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">Hi 👋, I'm Shreyash Debnath</h1>
+<h1 align="center">Hi 👋, I'm Damin Sahu</h1>
 <h3 align="center">Software Developer | Problem Solver | Full-Stack Enthusiast</h3>
 
 <p align="center">

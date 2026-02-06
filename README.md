@@ -43,10 +43,20 @@
 </p>
 
 ### 📈 **Proficiency Metrics**
-`Logic & DSA` ![85%](https://progress-bar.dev/85/?scale=100&title=C++&color=00b4d8&width=200)
-`Automation` ![80%](https://progress-bar.dev/80/?scale=100&title=Python&color=00b4d8&width=200)
-`Frontend` ![75%](https://progress-bar.dev/75/?scale=100&title=React&color=00b4d8&width=200)
+### 📈 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Proficiency+Metrics" />
 
+| Skill | Proficiency | Level |
+| :--- | :--- | :--- |
+| **Logic & DSA (C++)** | █ █ █ █ █ █ █ █ ░ ░ | `85%` |
+| **Automation (Python)** | █ █ █ █ █ █ █ █ ░ ░ | `80%` |
+| **Frontend (React)** | █ █ █ █ █ █ █ ░ ░ ░ | `75%` |
+| **IoT & Hardware** | █ █ █ █ █ █ █ █ ░ ░ | `80%` |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Logic-Expert-00b4d8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardware-Advanced-00b4d8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design-Intermediate-00b4d8?style=flat-square" />
+</p>
 ---
 
 ## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Engineering+Stats" />

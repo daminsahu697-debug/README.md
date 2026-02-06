@@ -59,7 +59,7 @@ I am a first-year undergraduate student at **NIAT Jaipur** with a passion for tu
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daminsahu697-debug&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daminsahu697-debug&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daminsahu697-debug&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 ---
 

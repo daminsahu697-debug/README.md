@@ -63,14 +63,6 @@ I am a first-year undergraduate student at **NIAT Jaipur** with a passion for tu
 </p>
 ---
 
-
-
-## 🐍 Evolution of Code
-<p align="center">
-  <img src="https://github.com/daminsahu697-debug/daminsahu697-debug/actions/workflows/snake.yml" alt="Snake Animation" />
-</p>
----
-
 ## 🎯 Let's Collaborate
 - 🏆 **Hackathons:** Invite me to your team! (Expertise: Python, IoT, Frontend).
 - 🤝 **Open Source:** Looking to contribute to React or ML projects.

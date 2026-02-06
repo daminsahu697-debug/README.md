@@ -10,10 +10,10 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JnB0cz1z/hvRJCLzz8cJC3Dqvdw/giphy.gif" width="25px"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=About+Me" />
 
-- 🚀 **Hackathon Enthusiast** specializing in Rapid Prototyping.
-- 💡 Turning **IoT & Machine Learning** concepts into reality.
-- 🎓 First-year B.Tech Student at **NIAT Jaipur** with a 24/7 builder mindset.
-- 🛠️ Currently building solutions for the **UIDAI Hackathon**.
+- 🚀 **Hackathon Enthusiast** specializing in Rapid Prototyping and Hardware-Software integration.
+- 💡 Turning **IoT & Machine Learning** concepts into reality at **NIAT Jaipur**.
+- 🛠️ Currently developing **Aadhaar Setu Vision** for the UIDAI Hackathon.
+- 🎓 First-year B.Tech Student with a passion for building scalable tech.
 
 ---
 
@@ -21,9 +21,9 @@
 
 ### **♻️ Aadhaar Setu Vision: Smart Waste Segregation**
 > **Featured Project for UIDAI Hackathon**
-- **The Solution:** Automated waste sorting using **Teachable Machine (ML)** and **Python**.
-- **The Hardware:** Controlled via **Arduino/ESP32** for real-time physical segregation.
-- **The Data:** Real-time database integration using **Firebase**.
+- **The Tech:** `Python` • `Teachable Machine (ML)` • `Arduino` • `Firebase`
+- **The Innovation:** Automated sorting system that uses computer vision to classify waste in real-time.
+- **Impact:** Designed to streamline urban waste management using Aadhaar-linked monitoring.
 - **Status:** [**View Repository**](https://github.com/daminsahu697-debug)
 
 ---
@@ -37,26 +37,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 🌐 **Frameworks & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,mysql,arduino,github,vscode,postman&theme=dark" />
-</p>
-
 ### 📈 **Proficiency Metrics**
-### 📈 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Proficiency+Metrics" />
-
-| Skill | Proficiency | Level |
+| Skill | Progress | Level |
 | :--- | :--- | :--- |
 | **Logic & DSA (C++)** | █ █ █ █ █ █ █ █ ░ ░ | `85%` |
 | **Automation (Python)** | █ █ █ █ █ █ █ █ ░ ░ | `80%` |
 | **Frontend (React)** | █ █ █ █ █ █ █ ░ ░ ░ | `75%` |
 | **IoT & Hardware** | █ █ █ █ █ █ █ █ ░ ░ | `80%` |
 
+### 🌐 **Frameworks & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Logic-Expert-00b4d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hardware-Advanced-00b4d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design-Intermediate-00b4d8?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,mysql,arduino,github,vscode,postman&theme=dark" />
 </p>
+
 ---
 
 ## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Engineering+Stats" />
@@ -67,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daminsahu697-debug&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daminsahu697-debug&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ---
@@ -75,13 +68,13 @@
 ## 🧊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Interactive+3D+Skills" />
 
 <p align="center">
-  <a href="https://daminsahu697-debug.github.io/3d-skill-cube/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216656950-8c0c6b3b-4e5a-4e91-9f18-6c55c41f8c6c.gif" width="300"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daminsahu697-debug&theme=tokyonight" width="70%" />
 </p>
 
 <p align="center">
-  <i>Click the cube above to explore my core skill set in 3D!</i>
+  <a href="https://daminsahu697-debug.github.io/3d-skill-cube/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch_Interactive_3D_Cube-00B4D8?style=for-the-badge&logo=unity&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -89,7 +82,7 @@
 ## 📨 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Let's+Connect" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
@@ -99,5 +92,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_To-Hackathons-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current_Status-Building_Smart_Cities-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current_Status-Building_Smart_Solutions-blue?style=flat-square" />
 </p>
